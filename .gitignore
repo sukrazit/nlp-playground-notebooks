@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# данные/модели/выходы
+data/*
+!data/.gitkeep
+models/
+artifacts/
+outputs/
+runs/
+mlruns/
+
+# веса и большие артефакты
+*.pt
+*.bin
+*.h5
